@@ -14,5 +14,8 @@ C:\Javafx-UIdesign-StatApp>java FXStat
 ```
 
 ### Screenshots
-![img01](./screenshots/FXStat-InitialView.png)
-![img01](./screenshots/FXStat-ResultView.png)
+| |
+|---|
+| ![img01](./screenshots/FXStat-InitialView.png) | 
+| ![img01](./screenshots/FXStat-ResultView.png) |
+
