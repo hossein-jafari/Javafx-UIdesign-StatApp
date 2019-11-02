@@ -199,7 +199,7 @@ public class FXStat extends Application {
 			txtfMax.setText(Double.toString(dataHandler.getMax()));
 			txtfMin.setText(Double.toString(dataHandler.getMin()));
 			txtfSum.setText(Double.toString(dataHandler.getSum()));
-			txtfMean.setText(Double.toString(dataHandler.getMean()));
+			txtfMean.setText(String.format ("%.2f", dataHandler.getMean()));
 			
 			//catch
 		}//if fileToOpen		
