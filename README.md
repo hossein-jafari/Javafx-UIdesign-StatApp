@@ -12,3 +12,6 @@ data points and their mean
 C:\Javafx-UIdesign-StatApp>javac FXStat.java
 C:\Javafx-UIdesign-StatApp>java FXStat
 ```
+
+### Screenshot
+![img01](./screenshots/FXStat-InitialView.png)
